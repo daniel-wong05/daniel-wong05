@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Daniel
 
-<!--
-**daniel-wong05/daniel-wong05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ I'm a bachelor's student at University of Agder (UiA), based in the southern part of Norway.
 
-Here are some ideas to get you started:
+- 🎓 I'm currently pursuing a degree in Information Technology and Information Systems.
+- 🌱 I'm learning the basics of Git, GitHub, and programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤔 My Interests
+
+- 🤖 Artificial Intelligence
+- 🎨 Digital Interaction Design
+- 🎮 Game Development
+
+### Some of my hobbies
+
+- 🎮 Gaming
+- 🎨 Designing
+
+💡 I'm always open to learning from others and gaining new insights, knowledge, and advice.
+
+### 📫 How to reach me
+
+📧 dwwong@uia.no
