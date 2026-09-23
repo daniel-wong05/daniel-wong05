@@ -11,11 +11,6 @@
 - 🎨 Digital Interaction Design
 - 🎮 Game Development
 
-### Some of my hobbies
-
-- 🎮 Gaming
-- 🎨 Designing
-
 💡 I'm always open to learning from others and gaining new insights, knowledge, and advice.
 
 ### 📫 How to reach me
